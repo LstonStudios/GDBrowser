@@ -12,8 +12,8 @@ module.exports = {
         gdbrowser: '1'
     },
 
-    rateLimiting: true, // Enables rate limiting to avoid api spam, feel free to disable for private use.
-    ipForwarding: true, // Forwards 'x-real-ip' to the servers. (requested by robtop)
+    rateLimiting: false, // Enables rate limiting to avoid api spam, feel free to disable for private use.
+    ipForwarding: false, // Forwards 'x-real-ip' to the servers. (requested by robtop)
 
     cacheMapPacks: true, // Caches map packs to speed up loading. Useful if they're rarely updated.
     cacheAccountIDs: true, // Caches account IDs in order to shave off an extra request to the servers.
