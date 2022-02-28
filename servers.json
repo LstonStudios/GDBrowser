@@ -1,14 +1,14 @@
 [
   {
-    "name": "Geometry Dash",
-    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
-    "author": "RobTop",
-    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "name": "ZGDPS",
+    "link": "",
+    "author": "Zyann",
+    "authorLink": "",
     "id": "",
-    "endpoint": "http://www.boomlings.com/database/",
-    "timestampSuffix": " ago",
-    "demonList": "https://pointercrate.com/",
-    "downloadsDisabled": true,
+    "endpoint": "http://itzzyanndev.7m.pl/database/",
+    "timestampSuffix": " hour",
+    "demonList": "",
+    "downloadsDisabled": false,
     "pinned": true
   },
   
